@@ -2,7 +2,7 @@
 A hardware-based secure vault system that combines RFID authentication
 and facial recognition to control a servo-driven locking mechanism.
 
-<img width="436" height="245" alt="1" src="https://github.com/user-attachments/assets/c9e8038f-4e87-4e81-b30c-7d54c3190204" /> &nbsp;&nbsp;&nbsp;&nbsp; <img width="380" height="245" alt="2" src="https://github.com/user-attachments/assets/7f7b8e0e-4ae4-41d6-a71b-ab79cdf87333" />
+<img width="436" height="245" alt="1" src="https://github.com/user-attachments/assets/c9e8038f-4e87-4e81-b30c-7d54c3190204" /> &nbsp;&nbsp; <img width="380" height="245" alt="2" src="https://github.com/user-attachments/assets/7f7b8e0e-4ae4-41d6-a71b-ab79cdf87333" />
 
 ## Overview
 This group project demonstrates a secure physical vault system using a dual-layer authentication pipeline. Access is granted only when both RFID credentials and facial identity verification succeed. The system integrates embedded electronics, computer vision, and mechanical actuation using an Arduino–Raspberry Pi architecture.  
