@@ -26,7 +26,8 @@ Both systems communicate over serial to coordinate authentication and actuation.
 
 ## Circuit Diagram
 The following diagram shows the wiring between the Arduino,Raspberry Pi, RFID reader, servo motor, and buzzer.
-<img width="379" height="423" alt="Screenshot 2026-01-20 at 5 15 12 PM" src="https://github.com/user-attachments/assets/86dd3ac3-2698-4e79-87c3-c87e42bd1fcb" /> <img width="370" height="255" alt="2" src="https://github.com/user-attachments/assets/7f7b8e0e-4ae4-41d6-a71b-ab79cdf87333" />
+
+<img width="379" height="423" alt="Screenshot 2026-01-20 at 5 15 12 PM" src="https://github.com/user-attachments/assets/86dd3ac3-2698-4e79-87c3-c87e42bd1fcb" /> <img width="380" height="255" alt="2" src="https://github.com/user-attachments/assets/7f7b8e0e-4ae4-41d6-a71b-ab79cdf87333" />
 
 This design demonstrates a complete end-to-end embedded system that integrates sensing, perception, decision-making, and physical actuation.
 
